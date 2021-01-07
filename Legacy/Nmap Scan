@@ -1,0 +1,3 @@
+Scan against Legacy machine on 10.10.10.4
+
+nmap -A -T4 -p- 10.10.10.4
