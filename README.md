@@ -1,4 +1,4 @@
 # HTBWalktrough
 Documentation of the HTB exploits
-  Machines owned:
+  Machines owned:<br>
     1. Legacy
