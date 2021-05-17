@@ -7,4 +7,4 @@ Documentation of the HTB exploits. <br>
 # TryHackMe Walktrough
 Documentation of CTF's on TryHackMe
   
-  1. Basic Pentesting
+  1. [Basic Pentesting](Basic Pentesting/BasicPentesting.md) <br>
